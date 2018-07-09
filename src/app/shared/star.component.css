@@ -1,0 +1,12 @@
+.crop {
+    overflow: hidden;
+    background: grey;
+    height: 10px;
+}
+div {
+    cursor: pointer;
+}
+.star{
+    background: green;
+    height: 10px;
+}
